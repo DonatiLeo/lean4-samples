@@ -1,6 +1,6 @@
 
 def main : IO Unit :=
-  IO.println "Hello, world!"
+  IO.println "Ciao, bello!"
 
 
 #eval main
